@@ -1,0 +1,5 @@
+C:\Users\Schanda\Desktop\Yeni klasör\RenaultTapeCOde.exe
+C:\Users\Schanda\Desktop\Yeni klasör\RenaultTapeCOde.dll
+C:\Users\Schanda\Desktop\Yeni klasör\RenaultTapeCOde.deps.json
+C:\Users\Schanda\Desktop\Yeni klasör\RenaultTapeCOde.runtimeconfig.json
+C:\Users\Schanda\Desktop\Yeni klasör\RenaultTapeCOde.pdb

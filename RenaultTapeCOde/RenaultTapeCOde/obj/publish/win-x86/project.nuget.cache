@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "D86UqaCUopZ51XZ4VNoqMhfs3vZh2f7QsZZBwQn3+FBi58nVV0qW+3QmXJ9h3OIswck9bDGrl4NBM3D+lF7rsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Schanda\\source\\repos\\RenaultTapeCOde\\RenaultTapeCOde\\RenaultTapeCOde.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Schanda\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Schanda\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Schanda\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.25\\microsoft.netcore.app.runtime.win-x86.6.0.25.nupkg.sha512",
+    "C:\\Users\\Schanda\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.25\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.25.nupkg.sha512",
+    "C:\\Users\\Schanda\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.25\\microsoft.aspnetcore.app.runtime.win-x86.6.0.25.nupkg.sha512",
+    "C:\\Users\\Schanda\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.25\\microsoft.netcore.app.crossgen2.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

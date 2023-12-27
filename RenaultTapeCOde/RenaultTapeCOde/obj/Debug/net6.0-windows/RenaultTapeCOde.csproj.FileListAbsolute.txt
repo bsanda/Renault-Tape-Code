@@ -1,0 +1,17 @@
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\bin\Debug\net6.0-windows\RenaultTapeCOde.exe
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\bin\Debug\net6.0-windows\RenaultTapeCOde.deps.json
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\bin\Debug\net6.0-windows\RenaultTapeCOde.runtimeconfig.json
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\bin\Debug\net6.0-windows\RenaultTapeCOde.dll
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\bin\Debug\net6.0-windows\RenaultTapeCOde.pdb
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.Form1.resources
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.csproj.GenerateResource.cache
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.AssemblyInfoInputs.cache
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.AssemblyInfo.cs
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.csproj.CoreCompileInputs.cache
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.dll
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\refint\RenaultTapeCOde.dll
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.pdb
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.genruntimeconfig.cache
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\ref\RenaultTapeCOde.dll
+C:\Users\Schanda\source\repos\RenaultTapeCOde\RenaultTapeCOde\obj\Debug\net6.0-windows\RenaultTapeCOde.Properties.Resources.resources

@@ -1,0 +1,7 @@
+C:\Users\Schanda\Desktop\Yeni klasör (2)\RenaultTapeCOde.pdb
+C:\Users\Schanda\Desktop\Yeni klasör (2)\D3DCompiler_47_cor3.dll
+C:\Users\Schanda\Desktop\Yeni klasör (2)\PenImc_cor3.dll
+C:\Users\Schanda\Desktop\Yeni klasör (2)\PresentationNative_cor3.dll
+C:\Users\Schanda\Desktop\Yeni klasör (2)\vcruntime140_cor3.dll
+C:\Users\Schanda\Desktop\Yeni klasör (2)\wpfgfx_cor3.dll
+C:\Users\Schanda\Desktop\Yeni klasör (2)\RenaultTapeCOde.exe
